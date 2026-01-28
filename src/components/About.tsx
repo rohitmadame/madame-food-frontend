@@ -52,7 +52,7 @@ export default function About() {
               Cultivating Excellence in <span className="text-orange-500">Organic Agriculture</span>
             </h2>
             <p className="text-gray-600 text-lg mb-6 leading-relaxed">
-              Madame Food Industries is a leading producer and exporter of premium organic products.
+              Madame Enterprises is a leading producer and exporter of premium organic products.
               We specialize in cultivating the finest organic moringa and export-quality watermelons,
               delivering nature's best to markets worldwide.
             </p>
