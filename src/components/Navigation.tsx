@@ -21,7 +21,7 @@ export default function Navigation() {
               <span className="text-white font-bold text-xl">M</span>
             </div>
             <span className="text-white text-xl font-bold tracking-tight">
-              Madame <span className="text-orange-500">Food Industries</span>
+              Madame <span className="text-orange-500">Enterprises</span>
             </span>
           </div>
 
